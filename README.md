@@ -38,7 +38,7 @@ Developed a **complex strategy board game** in Java with a fully interactive **G
 
 ---
 
-### 🗳️ Data Structures – Greek Election Simulation
+### 🗳️ [Data Structures – Greek Election Simulation](https://github.com/NickChronis2004/Greek-Voting-System-Using-Data-Structures).
 Implemented the **Greek government election process** using **trees, linked lists, and hash tables**.  
 ⚖️ Combines advanced **data structures** to simulate vote allocation, party representation, and seat distribution.  
 📊 A project bridging **algorithms with real-world processes**.
