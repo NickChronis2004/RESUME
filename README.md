@@ -62,7 +62,7 @@ Developed a **fully modular AI Assistant** using Python and ChatGPT-4, with capa
 
 ## 🎓 Education
 - **B.Sc. Computer Science**, University of Crete (2022 – present)  
-  *Relevant coursework:* Operating Systems, Data Structures, Logic, Networks, Applied Mathematics  
+  *Relevant coursework:* Operating Systems, Data Structures, Logical Programming, Networks, Applied Mathematics/Signal     Proccessing, Probability Theroy, OOP, Hardware Programming
 
 ---
 
