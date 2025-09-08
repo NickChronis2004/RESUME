@@ -66,6 +66,12 @@ Developed a **fully modular AI Assistant** using Python and ChatGPT-4, with capa
 
 ---
 
+## 📜 Certifications
+- **Python Programming – University of Crete (2 Cycles Completed)**  
+  Successfully completed the first two certified cycles of the **Python Programming seminar** offered by the University of Crete, gaining strong foundations in **problem solving, algorithms, and software design with Python**.
+
+---
+
 ## 🌍 Connect with me
 - GitHub: [NickChronis2004](https://github.com/NickChronis2004)   
 - Email: *nickchronis2004@gmail.com*  
