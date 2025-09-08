@@ -1,7 +1,7 @@
 # RESUME
 Here is a quick Resume description about my github account:
 
-# 👋 Hi, I'm Nick Chronis  
+# 👋 Hi, I'm Nickolaos Chronis  
 
 🎓 **Computer Science undergraduate (3rd year)** (University of Crete) with focus on **Systems, Cybersecurity, and AI-driven Automation**.  
 🚀 Passionate about building large-scale software, exploring low-level architectures, and connecting theory with practice.  
