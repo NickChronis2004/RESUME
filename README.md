@@ -31,7 +31,7 @@ Proposed a novel theorem linking **finite Hilbert spaces with cosmological recur
 
 ---
 
-### 🎮 Java Board Game with GUI
+### 🎮 [Java Board Game with GUI]([https://github.com/NickChronis2004/Risc-v-with-Python](https://github.com/NickChronis2004/Complex-Board-Game)
 Developed a **complex strategy board game** in Java with a fully interactive **Graphical User Interface (GUI)**.  
 🧩 Focus on **object-oriented design, event-driven programming, and user interaction**.  
 🎨 Highlights strong **software engineering & front-end implementation skills**.  
