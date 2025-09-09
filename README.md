@@ -53,6 +53,8 @@ Developed a **fully modular AI Assistant** using Python and ChatGPT-4, with capa
 - **Spotify Integration**, PDF/doc analysis, phone-call control, and more  
 - Designed with an **extensible module system** for easy addition of new AI-driven features.
 
+---
+
 ### 🔐 Security & Systems Labs
 - Buffer Overflow exploits & defense techniques  
 - Low-level OS and Networks experiments  
