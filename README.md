@@ -25,7 +25,7 @@ A complete **16-bit CPU simulator** built from scratch, including assembler, ins
 
 ---
 
-### 🌌 [Conditional Cosmological Recurrence (Research Preprint)](https://zenodo.org/records/16890434)
+### 🌌 [Conditional Cosmological Recurrence (Research Preprint)]([https://zenodo.org/records/16890434](https://github.com/NickChronis2004/CCR-theorem))
 Proposed a novel theorem linking **finite Hilbert spaces with cosmological recurrence**, bridging quantum information and thermodynamics.  
 📖 Currently under academic review/discussion.  
 
